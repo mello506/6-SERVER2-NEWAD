@@ -546,9 +546,8 @@ http://dnsx.co:80/movie/7885037935/fireurl.co/95538.mp4
 #EXTINF:-1 tvg-logo="http://srvx.io:80/images/yPUXrxTFYV7nShGQPXzjXHHP4lF_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR orange][B] Zona de Combate[/B][/COLOR]
 http://dnsx.co:80/movie/7885037935/fireurl.co/92567.mp4
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="ICONE" group-title="",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE AÇÃO [/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="ICONE" group-title="",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR white][B] FILMES DE AÇÃO [/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="http://dnsx.co:80/images/bByS6Y9LRAmTZdNEv3oqBPVNr7G_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR orange][B] Demetrio e os Gladiadores[/B][/COLOR]
