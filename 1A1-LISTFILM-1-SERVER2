@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="ICONE" group-title="",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR white][B] FILMES LANÇAMENTOS [/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="http://dnsx.co:80/images/ejMx7Hzh6FkG6BVWRpGYUMONlO2_big.jpg" ,[COLOR white][B]FILME[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR orange][B] Eu Me Importo[/B][/COLOR]
 http://dnsx.co:80/movie/7885037935/fireurl.co/95947.mp4
 
