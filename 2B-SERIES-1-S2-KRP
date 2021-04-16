@@ -1,122 +1,112 @@
 <item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>		
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-
-<item>		
 <title>[COLOR white][B]Cold Case -Arquivo Morto - 2003[/B][/COLOR]</title>		
 		
-<link>plugin://plugin.video.youtube/play/?video_id=DX5zbPP6YNo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cold Case -Arquivo Morto[/B][/COLOR]</link>		
+<link>plugin://plugin.video.youtube/play/?video_id=DX5zbPP6YNo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cold Case -Arquivo Morto[/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71080.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR lime] Um Crime Esquecido [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71081.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR lime] Gleen [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71082.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR lime] Nosso Garoto Esta de Volta [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71083.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR lime] Religioso [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71084.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR lime] Redensao [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71085.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR lime] Amor e Odio [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71086.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR lime] Tempo de Odiar [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71087.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR lime] O Voo [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71088.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR lime] Querida Sherry [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71089.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR lime] A Carona [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71090.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR lime] Arrogancia [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71091.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR lime] Cola [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71092.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR lime] A Carta [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71093.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR lime] O Menino da Caixa [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71094.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR lime] Inferno na Discoteca [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71095.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR lime] Voluntarios [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71096.mp4$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR lime] A Alma Perdida de Herman Lester [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71097.mp4$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR lime] Decisao de Ano Novo [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71098.mp4$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR lime] Voto do Passado [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71099.mp4$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR lime] Ganancia [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71100.mp4$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR lime] Instinto Maternal [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71101.mp4$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR lime] O Plano [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71102.mp4$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR lime] Namorados [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71080.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Um Crime Esquecido [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71081.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Gleen [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71082.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Nosso Garoto Esta de Volta [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71083.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Religioso [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71084.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Redensao [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71085.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Amor e Odio [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71086.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Tempo de Odiar [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71087.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] O Voo [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71088.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Querida Sherry [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71089.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] A Carona [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71090.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Arrogancia [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71091.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Cola [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71092.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] A Carta [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71093.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] O Menino da Caixa [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71094.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Inferno na Discoteca [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71095.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Voluntarios [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71096.mp4$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white] A Alma Perdida de Herman Lester [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71097.mp4$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white] Decisao de Ano Novo [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71098.mp4$$lsname=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white] Voto do Passado [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71099.mp4$$lsname=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white] Ganancia [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71100.mp4$$lsname=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white] Instinto Maternal [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71101.mp4$$lsname=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white] O Plano [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71102.mp4$$lsname=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white] Namorados [/B][/COLOR]</link>
 				
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
 		
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71124.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR lime] Os Badlands [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71125.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR lime] Meninas de Fabrica [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65567.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR lime] Daniela [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65568.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR lime] A Casa [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65569.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR lime] Quem e Seu Pai? [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65570.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR lime] O Sleepover [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR lime] Esta Chovendo Homens [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65571.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR lime] Brilho Vermelho [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65572.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR lime] Mindhunters [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65573.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR lime] Criterio [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65574.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR lime] Gerasao em Branco [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65575.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR lime] Eu, Adrian [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65576.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR lime] Tempo Para o Crime [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65577.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR lime] Revolusao [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65578.mp4$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR lime] Desejos [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65579.mp4$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR lime] Vinganza [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65580.mp4$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR lime] Schadenfreude [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65581.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR lime] Raivoso [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65582.mp4$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR lime] Fruta Estranha [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65583.mp4$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR lime] Kensington [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65584.mp4$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR lime] Criaturas da Noite [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65585.mp4$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR lime] Melhores Amigos [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71124.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Os Badlands [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/71125.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Meninas de Fabrica [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65567.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Daniela [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65568.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] A Casa [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65569.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Quem e Seu Pai? [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65570.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] O Sleepover [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Esta Chovendo Homens [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65571.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Brilho Vermelho [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65572.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Mindhunters [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65573.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Criterio [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65574.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Gerasao em Branco [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65575.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Eu, Adrian [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65576.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Tempo Para o Crime [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65577.mp4$$lsname=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white] Revolusao [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65578.mp4$$lsname=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white] Desejos [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65579.mp4$$lsname=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white] Vinganza [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65580.mp4$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white] Schadenfreude [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65581.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white] Raivoso [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65582.mp4$$lsname=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white] Fruta Estranha [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65583.mp4$$lsname=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white] Kensington [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65584.mp4$$lsname=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white] Criaturas da Noite [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65585.mp4$$lsname=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white] Melhores Amigos [/B][/COLOR]</link>
 <link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65586.mp4$$lsname=[COLOR orange][B]T02E23[/B][COLOR yellow] ->[/COLOR][COLOR red][B] A Floresta [/B][/COLOR]</link>
 		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>		
 		
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65312.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR lime] Familia [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65313.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR lime] A Promessa [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65314.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR lime] Noite Ruim [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65315.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR lime] Cores [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65316.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR lime] Cometidas [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65317.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR lime] Salvando Bubley Patrick [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65318.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR lime] Inicio [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65319.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR lime] Honra [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65320.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR lime] Um Dia Perfeito [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65321.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR lime] Melhor Frank [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65322.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR lime] 8 Anos [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65323.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR lime] Detensao [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65324.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR lime] Debutante [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65325.mp4$$lsname=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR lime] Um Dia de Cao [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65326.mp4$$lsname=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR lime] Santuario [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65327.mp4$$lsname=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR lime] Uma Noite [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65328.mp4$$lsname=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR lime] Superstar [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65329.mp4$$lsname=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR lime] Willkommen [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65330.mp4$$lsname=[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR lime] Encher um Pouco e Lindo [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65331.mp4$$lsname=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR lime] Pena de morte: Ultima Instancia [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65332.mp4$$lsname=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR lime] Galinha em Casa [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65333.mp4$$lsname=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR lime] O Rio [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65334.mp4$$lsname=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR lime] Joseph [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65312.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Familia [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65313.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] A Promessa [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65314.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white] Noite Ruim [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65315.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white] Cores [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65316.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white] Cometidas [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65317.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white] Salvando Bubley Patrick [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65318.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white] Inicio [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65319.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white] Honra [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65320.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white] Um Dia Perfeito [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65321.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white] Melhor Frank [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65322.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white] 8 Anos [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65323.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white] Detensao [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65324.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white] Debutante [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65325.mp4$$lsname=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white] Um Dia de Cao [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65326.mp4$$lsname=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white] Santuario [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65327.mp4$$lsname=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white] Uma Noite [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65328.mp4$$lsname=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white] Superstar [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65329.mp4$$lsname=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white] Willkommen [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65330.mp4$$lsname=[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white] Encher um Pouco e Lindo [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65331.mp4$$lsname=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white] Pena de morte: Ultima Instancia [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65332.mp4$$lsname=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white] Galinha em Casa [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65333.mp4$$lsname=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white] O Rio [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65334.mp4$$lsname=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white] Joseph [/B][/COLOR]</link>
 		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>		
 		
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65335.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR lime] Violencia [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65336.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR lime] Guerra em Casa [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65337.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR lime] Toupeiras [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65338.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR lime] Bebes Azuis [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65339.mp4$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR lime] Salvando Sammy [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65340.mp4$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR lime] Estatico [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65341.mp4$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR lime] A Chave [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65342.mp4$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR lime] Vagalumes [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65343.mp4$$lsname=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR lime] Corasoes Solitarios [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65344.mp4$$lsname=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR lime] Eternamente Triste [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65345.mp4$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR lime] O Vermelho e o Azul [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65346.mp4$$lsname=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR lime] No nos Dedos [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65347.mp4$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR lime] Blecaute [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65348.mp4$$lsname=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR lime] 8:03 da Manha [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65349.mp4$$lsname=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR lime] Sangue nas Faixas [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65350.mp4$$lsname=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR lime] Adeus Quarto [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65351.mp4$$lsname=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR lime] Trocando as Bolas [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65352.mp4$$lsname=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR lime] Um Dolar, Um Sonho [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65353.mp4$$lsname=[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR lime] Delinquente [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65354.mp4$$lsname=[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR lime] Atitude [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65355.mp4$$lsname=[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR lime] Rasgado [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65356.mp4$$lsname=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR lime] Carga [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65357.mp4$$lsname=[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR lime] A Boa Morte [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65358.mp4$$lsname=[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR lime] Stalker [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65335.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white] Violencia [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65336.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white] Guerra em Casa [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65337.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white] Toupeiras [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65338.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white] Bebes Azuis [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65339.mp4$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white] Salvando Sammy [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65340.mp4$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white] Estatico [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65341.mp4$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white] A Chave [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65342.mp4$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white] Vagalumes [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65343.mp4$$lsname=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white] Corasoes Solitarios [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65344.mp4$$lsname=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white] Eternamente Triste [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65345.mp4$$lsname=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white] O Vermelho e o Azul [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65346.mp4$$lsname=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white] No nos Dedos [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65347.mp4$$lsname=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white] Blecaute [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65348.mp4$$lsname=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white] 8:03 da Manha [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65349.mp4$$lsname=[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white] Sangue nas Faixas [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65350.mp4$$lsname=[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white] Adeus Quarto [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65351.mp4$$lsname=[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white] Trocando as Bolas [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65352.mp4$$lsname=[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white] Um Dolar, Um Sonho [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65353.mp4$$lsname=[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white] Delinquente [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65354.mp4$$lsname=[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white] Atitude [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65355.mp4$$lsname=[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white] Rasgado [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65356.mp4$$lsname=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white] Carga [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65357.mp4$$lsname=[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white] A Boa Morte [/B][/COLOR]</link>
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/65358.mp4$$lsname=[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR white] Stalker [/B][/COLOR]</link>
 			
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/k9rXmhd01NHzan6o2usVu7ogbh9.jpg</fanart>		
