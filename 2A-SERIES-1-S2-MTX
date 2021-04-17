@@ -1,53 +1,74 @@
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>		
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-
-<item>		
-<title>[COLOR white][B]Frontier - 2016[/B][/COLOR]</title>		
-		
-<link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Frontier[/B][/COLOR]</link>		
-		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
-		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25801.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reino De Pele E Sangue [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25800.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Guerra Entre Iguais [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25799.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Inimigo Em Comum [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25798.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Comando Sem Lei [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25797.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25796.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obsessao [/B][/COLOR]</link>		
-		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
-		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25795.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabeza A Premio [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25794.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Procurado [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25793.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Lobo E O Urso [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25792.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Motim [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25791.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Disparo De Canhao [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25890.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Retorno Do Lobo [/B][/COLOR]</link>		
-		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>		
-		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50692.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Caminho Obscuro [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50693.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Fim Do Mundo [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50694.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Satanazas [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50695.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Todos Por Todos E Nenhum Por Um [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50696.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Casa Do Senhor [/B][/COLOR]</link>		
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50697.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Os Pecados Do Pai [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/4MQfQhtqz07xWyD6uj9wJj2LjTM.jpg</fanart>		
-<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>		
-<genre>ÉPICOS</genre>  		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>			
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>			
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR white][B]Godless - T01 - 2017[/B][/COLOR]</title>			
+			
+<link>plugin://plugin.video.youtube/play/?video_id=CrlZCRncCwA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Godless[/B][/COLOR]</link>			
+			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17773.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aconteceu em Creede [/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17774.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Mulheres de La Belle[/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17775.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Sabedoria do Cavalo [/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17776.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Mantenha Distancia [/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17777.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Tiro Certeiro [/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17778.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Prezado Roy [/B][/COLOR]</link>			
+<link>http://canaishd.servidor.tv:8080/series/vilmo123/vilmo123/17779.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Boas-vindas [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>			
+<info>Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.</info>			
+<genre>WESTERN</genre>  			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR white][B]Frontier - 2016[/B][/COLOR]</title>			
+			
+<link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Frontier[/B][/COLOR]</link>			
+			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25801.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reino De Pele E Sangue [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25800.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Guerra Entre Iguais [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25799.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Inimigo Em Comum [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25798.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Comando Sem Lei [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25797.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25796.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obsessao [/B][/COLOR]</link>			
+			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
+			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25795.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabeza A Premio [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25794.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Procurado [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25793.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Lobo E O Urso [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25792.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Motim [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25791.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Disparo De Canhao [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25890.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Retorno Do Lobo [/B][/COLOR]</link>			
+			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>			
+			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50692.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Caminho Obscuro [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50693.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Fim Do Mundo [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50694.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Satanazas [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50695.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Todos Por Todos E Nenhum Por Um [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50696.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Casa Do Senhor [/B][/COLOR]</link>			
+<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50697.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Os Pecados Do Pai [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/4MQfQhtqz07xWyD6uj9wJj2LjTM.jpg</fanart>			
+<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>			
+<genre>ÉPICOS</genre>  			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
 <item>			
 <title>[COLOR white][B]Cold Case -Arquivo Morto - 2003[/B][/COLOR]</title>			
 			
@@ -237,3 +258,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
