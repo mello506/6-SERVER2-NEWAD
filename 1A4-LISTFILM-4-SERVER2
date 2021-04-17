@@ -1,8 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="007: A Serviço Secreto de Sua Majestade (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" group-title="Filmes: Ação,[COLOR orange][B]007: A Serviço Secreto de Sua Majestade (1969)[/B][/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="007: A Serviço Secreto de Sua Majestade (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" group-title="Filmes: Ação",[COLOR orange][B]007: A Serviço Secreto de Sua Majestade (1969)[/B][/COLOR]</link>
 http://main.chopp.me:80/movie/Cirino123/Cirino321/80145.mkv	
-#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes: Ação,[COLOR orange][B]007: Cassino Royale (2006)[/B][/COLOR]</link>	
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes: Ação",[COLOR orange][B]007: Cassino Royale (2006)[/B][/COLOR]</link>	
 http://main.chopp.me:80/movie/Cirino123/Cirino321/80160.mkv	
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="Filmes: Ação,[COLOR orange][B]007: Contra a Chantagem Atômica (1965)	[/B][/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="Filmes: Ação",[COLOR orange][B]007: Contra a Chantagem Atômica (1965)	[/B][/COLOR]</link>
 http://main.chopp.me:80/movie/Cirino123/Cirino321/80143.mkv	
+
