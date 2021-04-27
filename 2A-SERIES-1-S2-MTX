@@ -34,7 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <link>plugin://plugin.video.youtube/play/?video_id=zstihByJe9I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Expresso do Amanha[/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
 			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257297.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Primeiro, O Clima Mudou [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257298.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Preparem-se! [/B][/COLOR]</link>			
@@ -47,7 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257305.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] O Trem Exigia Sangue [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257306.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] 994 Vagoes[/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
 			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257307.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] A Hora dos Dois Motores [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/257308.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] A Coisa Esta Ficando Quente [/B][/COLOR]</link>			
@@ -170,6 +170,30 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>			
 <info>Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>			
 <genre>DRAMA</genre>  			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR white][B]Troia - A Queda de Uma Cidade - 2018[/B][/COLOR]</title>			
+			
+<link>plugin://plugin.video.youtube/play/?video_id=sF2I8tODDMk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Troia - A Queda de Uma Cidade [/B][/COLOR]</link>			
+			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244233.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sangue Negro [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244234.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Condisoes [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244235.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Encurralados [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244236.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Espolio Da Guerra [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244237.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Perseguisao [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244238.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Batalha Na Praia [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244239.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Doze Dias [/B][/COLOR]</link>			
+<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244240.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Oferta [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7RPWQw4YfKQHFwnJXi7ZdfoE5vZ.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/smS7dCcvoP6sCXKmWYNaq5H1FKX.jpg</fanart>			
+<info>Em busca da mulher prometida por Afrodite, o pastor Páris descobre sua verdadeira identidade e se apaixona por Helena de Esparta, desencadeando a Guerra de Troia.</info>			
+<genre>EPICOS</genre>  			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
@@ -338,7 +362,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226633.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]  Episodio 07- VII [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226634.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]  Episodio 08- VIII [/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
 			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226635.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]  Episodio 01- IX [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226636.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]  Episodio 02- X [/B][/COLOR]</link>			
@@ -351,7 +375,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226643.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]  Episodio 09- XVII [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226644.mp4$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]  Episodio 10- XVIII [/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>			
 			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226645.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]  Episodio 01 - XIX [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226646.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]  Episodio 02- XX [/B][/COLOR]</link>			
@@ -364,7 +388,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226653.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]  Episodio 09-XXVII [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226654.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]  Episodio 10- XXVIII [/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>			
 			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226655.mp4$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]  Episodio 01 - XXIX [/B][/COLOR]</link>			
 <link>http://snxt.online:80/series/fabricio2021/fabricio2021/226656.mp4$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]  Episodio 02- XXX [/B][/COLOR]</link>			
@@ -1218,6 +1242,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
 			
 			
 			
