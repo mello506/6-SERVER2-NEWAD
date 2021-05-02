@@ -134,11 +134,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange]Temporada 01 - DUB[/B][/COLOR]</link>
 
 <link>http://b5.vc:80/series/ed2021/2021ed/82620.mp4$nome=[COLOR orange][B]T01E01[/B][COLOR yellow] -> [COLOR white]O Lobo e a Aguia [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82624.mp4$nome=[COLOR orange][B]T01E02[/B][COLOR yellow] -> [/COLOR][COLOR lime][B]Vinganca [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82628.mp4$nome=[COLOR orange][B]T01E03[/B][COLOR yellow] -> [/COLOR][COLOR lime][B]Tempo de Decisoes [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82632.mp4$nome=[COLOR orange][B]T01E04[/B][COLOR yellow] -> [/COLOR][COLOR lime][B]Um Novo Reik [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82636.mp4$nome=[COLOR orange][B]T01E05[/B][COLOR yellow] -> [/COLOR][COLOR lime][B]Traisao [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82640.mp4$nome=[COLOR orange][B]T01E06[/B][COLOR yellow] -> [/COLOR][COLOR lime][B]A Batalha [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82624.mp4$nome=[COLOR orange][B]T01E02[/B][COLOR yellow] -> [COLOR white]Vinganca [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82628.mp4$nome=[COLOR orange][B]T01E03[/B][COLOR yellow] -> [COLOR white]Tempo de Decisoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82632.mp4$nome=[COLOR orange][B]T01E04[/B][COLOR yellow] -> [COLOR white]Um Novo Reik [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82636.mp4$nome=[COLOR orange][B]T01E05[/B][COLOR yellow] -> [COLOR white]Traisao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82640.mp4$nome=[COLOR orange][B]T01E06[/B][COLOR yellow] -> [COLOR white]A Batalha [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg</fanart>
@@ -147,6 +147,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 <item>			
 <title>[COLOR white][B]Expresso do Amanhã - 2020[/B][/COLOR]</title>			
