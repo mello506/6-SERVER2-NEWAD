@@ -124,7 +124,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+item>
 <title>[COLOR white][B]Sky Rojo - 2021[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=6w0qHO_NW6A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sky Rojo [/B][/COLOR]</link>
@@ -148,25 +148,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>			
-<title>[COLOR white][B]Lupin - 2021 [/B][/COLOR]</title>			
-			
-<link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI $$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Lupin [/B][/COLOR]</link>			
-			
-<link>NOLINK $$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238486.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B]  Episodio 01[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238487.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B]  Episodio 02[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238488.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B]  Episodio 03[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238489.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B]  Episodio 04[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238490.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B]  Episodio 05[/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>			
-<info>Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.</info>			
-<genre>CRIME E DRAMA</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<item>
+<title>[COLOR white][B]Lupin - 2021 [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Lupin [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/92125.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01 [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/92126.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02 [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/92127.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03 [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/92128.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04 [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/92129.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05 [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>
+<info>Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 
 <item>
@@ -176,12 +176,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange]Temporada 01 - DUB[/B][/COLOR]</link>
 
-<link>http://b5.vc:80/series/ed2021/2021ed/82620.mp4$$lsname=[COLOR orange][B]T01E01[/B][COLOR yellow] -> [COLOR white]O Lobo e a Aguia [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82624.mp4$$lsname=[COLOR orange][B]T01E02[/B][COLOR yellow] -> [COLOR white]Vinganca [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82628.mp4$$lsname=[COLOR orange][B]T01E03[/B][COLOR yellow] -> [COLOR white]Tempo de Decisoes [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82632.mp4$$lsname=[COLOR orange][B]T01E04[/B][COLOR yellow] -> [COLOR white]Um Novo Reik [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82636.mp4$$lsname=[COLOR orange][B]T01E05[/B][COLOR yellow] -> [COLOR white]Traisao [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/ed2021/2021ed/82640.mp4$$lsname=[COLOR orange][B]T01E06[/B][COLOR yellow] -> [COLOR white]A Batalha [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82620.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Lobo e a Aguia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82624.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Vinganca [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82628.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Tempo de Decisoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82632.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Um Novo Reik [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82636.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Traisao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/82640.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Batalha [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s6i3HTNt1in70Cm9jTIkck485PW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg</fanart>
@@ -196,31 +196,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <link>plugin://plugin.video.youtube/play/?video_id=zstihByJe9I$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Expresso do Amanha[/B][/COLOR]</link>			
 			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
 			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257297.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Primeiro, O Clima Mudou [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257298.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Preparem-se! [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257299.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Acesso e Poder [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257300.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Sem Seu Criador [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257301.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] A Justiza Nao Embarcou [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257302.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] De Onde Menos se Espera... [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257303.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] O Universo e Indiferente [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257304.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Revoluzoes [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257305.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] O Trem Exigia Sangue [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257306.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] 994 Vagoes[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/ed2021/2021ed/48721.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Primeiro, O Clima Mudou [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48722.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Preparem-se! [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48723.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Acesso e Poder [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48724.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sem Seu Criador [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48725.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Justiza Nao Embarcou [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48726.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] De Onde Menos se Espera... [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/48727.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Universo e Indiferente [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62998.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Revoluzoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62999.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Trem Exigia Sangue [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/63000.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 994 Vagoes[/B][/COLOR]</link>
 			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
 			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257307.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] A Hora dos Dois Motores [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257308.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] A Coisa Esta Ficando Quente [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257309.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Uma Grande Odisseia [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257310.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Toma La, Da Ca [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257311.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]  Mantendo As Esperansas [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257312.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Muito Longe Do Trem  [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257313.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Nossa Resposta Para Tudo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257314.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] O Eterno Engenheiro [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257315.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] O Show Tem Que Continuar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/257316.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] A Caminho Do Desconhecido [/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/ed2021/2021ed/93583.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Hora dos Dois Motores [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/93943.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Coisa Esta Ficando Quente [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/94241.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Grande Odisseia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/96034.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toma La, Da Ca [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/96035.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mantendo As Esperanzas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/96556.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Muito Longe Do Trem [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/97977.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nossa Resposta Para Tudo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/98805.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]O Eterno Engenheiro [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/100378.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Show Tem Que Continuar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/100379.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Caminho Do Desconhecido [/B][/COLOR]</link>
 			
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n6UNHZoiYj81abwmG38HbNjflDx.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/x76l3veGEqAgoAqMHW4BfWDYbi3.jpg</fanart>			
@@ -230,30 +230,30 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-<item>			
-<title>[COLOR white][B]O Gambito da Rainha - 2020[/B][/COLOR]</title>			
-			
-<link>plugin://plugin.video.youtube/play/?video_id=cnqV3wsZlpo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gambito da Rainha [/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238875.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aberturas [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238876.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Torneio [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238877.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Peoes Duplos [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238878.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meio de Jogo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238879.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Treinamento [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238880.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Partidas Adiadas [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238881.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Fim de Jogo [/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ubWpLTkwcms5PfZJMFZkNXVYXqJ.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/jweDN93wtbUgg2eO8eYTWV6QriS.jpg</fanart>			
-<info>Durante a Guerra Fria, em um orfanato do Kentucky, uma garota prodígio do xadrez luta contra o vício para se tornar a número um do mundo.</info>			
-<genre>DRAMA</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<item>
+<title>[COLOR white][B]O Gambito da Rainha - 2020[/B][/COLOR]</title>
 
-<item>		
+<link>plugin://plugin.video.youtube/play/?video_id=cnqV3wsZlpo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gambito da Rainha [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/83848.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aberturas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83852.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Torneio [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83856.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Peoes Duplos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83860.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Meio de Jogo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83864.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Treinamento [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83868.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Partidas Adiadas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/83872.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Fim de Jogo [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ubWpLTkwcms5PfZJMFZkNXVYXqJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jweDN93wtbUgg2eO8eYTWV6QriS.jpg</fanart>
+<info>Durante a Guerra Fria, em um orfanato do Kentucky, uma garota prodígio do xadrez luta contra o vício para se tornar a número um do mundo.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>		
 <title>[COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>		
 		
 <link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</link>		
@@ -392,69 +392,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>			
-<title>[COLOR white][B]Manifest: O Mistério do Voo 828  - 2018[/B][/COLOR]</title>			
-			
-<link>plugin://plugin.video.youtube/play/?video_id=kJVhS7Doj1U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manifest: O Misterio do Voo 828  [/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238539.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238540.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Reintegrasao [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238541.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Turbulencia [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238542.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Bagagem Nao Reclamada [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238543.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Voo de Conexao [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238544.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Fora do Radar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238545.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] S.N.A.F.U. [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238546.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Beco Sem Saida [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238547.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Calculo Morto [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238548.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Vento Cruzado [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238549.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Rastros [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238550.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Ponto de Fuga [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238551.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Liberado para Abordagem [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238552.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Atualizar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238553.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Aterrissagem Forzada [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238554.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Hora Prevista de Partida [/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238555.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Apertem Os Cintos [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238556.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Na Pista [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238557.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Falso Horizonte [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238558.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Caixa-Preta [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238559.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Voo Coordenado [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238560.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Viagem de Volta [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238561.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Saida de Emergencia [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238562.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Siga em Frente [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238563.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Garrafas De Aviao [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238564.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Desvio Do Curso [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238565.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Menores Desacompanhados [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238566.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Indicativo de Chamada [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238567.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Condisoes de Formasao de Gelo [/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>			
-<info>Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>			
-<genre>DRAMA</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<item>
+<title>[COLOR white][B]Manifest: O Mistério do Voo 828  - 2018[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=kJVhS7Doj1U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manifest: O Misterio do Voo 828  [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/30690.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30691.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Reintegrasao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30692.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Turbulencia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30693.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Bagagem Nao Reclamada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30694.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Voo de Conexao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30695.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Fora do Radar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30696.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] S.N.A.F.U. [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30697.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Beco Sem Saida [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30698.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Calculo Morto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30699.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Vento Cruzado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30700.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Rastros [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30701.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Ponto de Fuga [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30702.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Liberado para Abordagem [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30703.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Atualizar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30704.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Aterrissagem Forzada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/30705.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Hora Prevista de Partida [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+		
+<link>http://b5.vc:80/series/ed2021/2021ed/62484.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Apertem Os Cintos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62485.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Na Pista [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62486.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Falso Horizonte [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62487.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Caixa-Preta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62488.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Voo Coordenado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62489.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Viagem de Volta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62490.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Saida de Emergencia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62491.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Siga em Frente [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62492.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Garrafas De Aviao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62493.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Desvio Do Curso [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62494.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Menores Desacompanhados [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62495.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Indicativo de Chamada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/62496.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Condisoes de Formasao de Gelo [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>
+<info>Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Troia - A Queda de Uma Cidade - 2018[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=sF2I8tODDMk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Troia - A Queda de Uma Cidade [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
 
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244233.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sangue Negro [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244234.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Condisoes [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244235.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Encurralados [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244236.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Espolio Da Guerra [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244237.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Perseguisao [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244238.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Batalha Na Praia [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244239.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Doze Dias [/B][/COLOR]</link>
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/244240.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Oferta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4150.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sangue Negro [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4151.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Condisoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4152.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Encurralados [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4153.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Espolio Da Guerra [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4154.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Perseguisao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4155.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Batalha Na Praia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4156.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Doze Dias [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/4157.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Oferta [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7RPWQw4YfKQHFwnJXi7ZdfoE5vZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/smS7dCcvoP6sCXKmWYNaq5H1FKX.jpg</fanart>
@@ -464,113 +464,114 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>			
-<title>[COLOR white][B]Marvel - O Justiceiro - 2017[/B][/COLOR]</title>			
+<item>
+<title>[COLOR white][B]Marvel - O Justiceiro - 2017[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=W_N0j6GO_D0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Marvel - O Justiceiro [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/9983.mp4$$lsname=[B]T01E01[COLOR yellow] -> [COLOR white]Tres da Madrugada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9984.mp4$$lsname=[B]T01E02[COLOR yellow] -> [COLOR white]Dois Homens Mortos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9985.mp4$$lsname=[B]T01E03[COLOR yellow] -> [COLOR white]Kandahar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9986.mp4$$lsname=[B]T01E04[COLOR yellow] -> [COLOR white]Reabastecimento [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9987.mp4$$lsname=[B]T01E05[COLOR yellow] -> [COLOR white]Gunner [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9988.mp4$$lsname=[B]T01E06[COLOR yellow] -> [COLOR white]O Infiltrado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9989.mp4$$lsname=[B]T01E07[COLOR yellow] -> [COLOR white]Na Mira [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9990.mp4$$lsname=[B]T01E08[COLOR yellow] -> [COLOR white]Aso Resfriado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9991.mp4$$lsname=[B]T01E09[COLOR yellow] -> [COLOR white]Este Lado Para O Inimigo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9992.mp4$$lsname=[B]T01E10[COLOR yellow] -> [COLOR white]Virtude dos Maus [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9993.mp4$$lsname=[B]T01E11[COLOR yellow] -> [COLOR white]Perigo Proximo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9994.mp4$$lsname=[B]T01E12[COLOR yellow] -> [COLOR white]Lar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9995.mp4$$lsname=[B]T01E13[COLOR yellow] -> [COLOR white]Memento Mori [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/9996.mp4$$lsname=[B]T02E01[COLOR yellow] -> [COLOR white]Briga de Bar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9997.mp4$$lsname=[B]T02E02[COLOR yellow] -> [COLOR white]Lutar ou Fugir [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9998.mp4$$lsname=[B]T02E03[COLOR yellow] -> [COLOR white]Agitar a Agua [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/9999.mp4$$lsname=[B]T02E04[COLOR yellow] -> [COLOR white]Cicatrizes do Passado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10000.mp4$$lsname=[B]T02E05[COLOR yellow] -> [COLOR white]O Jogo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10001.mp4$$lsname=[B]T02E06[COLOR yellow] -> [COLOR white]Nakazat [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10002.mp4$$lsname=[B]T02E07[COLOR yellow] -> [COLOR white]Um Dia Ruim [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10003.mp4$$lsname=[B]T02E08[COLOR yellow] -> [COLOR white]O Protetor do Meu Irmao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10004.mp4$$lsname=[B]T02E09[COLOR yellow] -> [COLOR white]A Recompensa [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10005.mp4$$lsname=[B]T02E10[COLOR yellow] -> [COLOR white]Corasao Sombrio [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10006.mp4$$lsname=[B]T02E11[COLOR yellow] -> [COLOR white]O Abismo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10007.mp4$$lsname=[B]T02E12[COLOR yellow] -> [COLOR white]Rota de Colisao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10008.mp4$$lsname=[B]T02E13[COLOR yellow] -> [COLOR white]A Tormenta [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q9L1VXNMcSnfAUTTzGQR5pDUewK.jpg</fanart>
+<info>O ex-marine Frank Castle só quer punir os criminosos responsáveis pela morte da sua família, mas torna-se alvo de uma conspiração militar.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+		
+<item>
+<title>[COLOR white][B]La Casa de Papel - 2017[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=mGRfRzMS2Po$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]La Casa de Papel[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange]Temporada 01 - Parte I - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed2021/2021ed/10832.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Episodio - 01 	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10833.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Episodio - 02	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10834.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Episodio - 03	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10835.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Episodio - 04	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10836.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Episodio - 05	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10837.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Episodio - 06	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10838.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Episodio - 07	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10839.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Episodio - 08	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10840.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Episodio - 09	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10841.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Episodio - 10	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10842.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Episodio - 11	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10843.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Episodio - 12	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10844.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Episodio - 13	GAT[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - Parte II - DUB[/B][/COLOR]</link>
 			
-<link>plugin://plugin.video.youtube/play/?video_id=W_N0j6GO_D0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Marvel - O Justiceiro [/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/ed2021/2021ed/10845.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Episodio - 01 	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10846.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Episodio - 02	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10847.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Episodio - 03	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10848.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Episodio - 04	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10849.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Episodio - 05	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10850.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Episodio - 06	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10851.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Episodio - 07	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10852.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Episodio - 08	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10853.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Episodio - 09	GAT[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - Parte I - DUB[/B][/COLOR]</link>
 			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/ed2021/2021ed/10854.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Episodio - 01 	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10855.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] Episodio - 02	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10856.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white] Episodio - 03	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10857.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white] Episodio - 04	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10858.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white] Episodio - 05	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10859.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white] Episodio - 06	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10860.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white] Episodio - 07	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/10861.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white] Episodio - 08	GAT[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - Parte II - DUB[/B][/COLOR]</link>
 			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238896.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Tres da Madrugada [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238897.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Dois Homens Mortos [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238898.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Kandahar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238899.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Reabastecimento [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238900.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Gunner [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238901.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Infiltrado [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238902.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Na Mira [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238903.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Aso Resfriado [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238904.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Este Lado Para O Inimigo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238905.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Virtude dos Maus [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238906.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Perigo Proximo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238907.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Lar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238908.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Memento Mori [/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238909.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Briga de Bar [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238910.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Lutar ou Fugir [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238911.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Agitar a Agua [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238912.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Cicatrizes do Passado [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238913.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Jogo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238914.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Nakazat [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238915.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Um Dia Ruim [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238916.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Protetor do Meu Irmao [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238917.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]A Recompensa [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238918.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Corasao Sombrio [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238919.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]O Abismo [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238920.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Rota de Colisao [/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/238921.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]A Tormenta [/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/q9L1VXNMcSnfAUTTzGQR5pDUewK.jpg</fanart>			
-<info>O ex-marine Frank Castle só quer punir os criminosos responsáveis pela morte da sua família, mas torna-se alvo de uma conspiração militar.</info>			
-<genre>AÇÃO</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<item>			
-<title>[COLOR white][B]La Casa de Papel - 2017[/B][/COLOR]</title>			
-			
-<link>plugin://plugin.video.youtube/play/?video_id=mGRfRzMS2Po$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]La Casa de Papel[/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange]Temporada 01 - Parte I - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252136.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Episodio - 01[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252137.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Episodio - 02[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252138.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Episodio - 03[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252139.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Episodio - 04[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252140.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Episodio - 05[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252141.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Episodio - 06[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252142.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Episodio - 07[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252143.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Episodio - 08[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252144.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Episodio - 09[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252145.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Episodio - 10[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252146.mkv$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Episodio - 11[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252147.mkv$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Episodio - 12[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252148.mkv$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Episodio - 13[/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - Parte II - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252149.mkv$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Episodio - 01[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252150.mkv$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Episodio - 02[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252151.mkv$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Episodio - 03[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252152.mkv$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Episodio - 04[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252153.mkv$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Episodio - 05[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252154.mkv$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Episodio - 06[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252155.mkv$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Episodio - 07[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252156.mkv$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Episodio - 08[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252157.mkv$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Episodio - 09[/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - Parte I - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252158.mkv$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Episodio - 01[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252159.mkv$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] Episodio - 02[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252160.mkv$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white] Episodio - 03[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252161.mkv$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white] Episodio - 04[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252162.mkv$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white] Episodio - 05[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252163.mkv$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white] Episodio - 06[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252164.mkv$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white] Episodio - 07[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252165.mkv$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white] Episodio - 08[/B][/COLOR]</link>			
-			
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - Parte II - DUB[/B][/COLOR]</link>			
-			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252167.mkv$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white] Episodio - 01[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252168.mkv$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white] Episodio - 02[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252169.mkv$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white] Episodio - 03[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252170.mkv$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white] Episodio - 04[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252171.mkv$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white] Episodio - 05[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252172.mkv$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white] Episodio - 06[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252173.mkv$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white] Episodio - 07[/B][/COLOR]</link>			
-<link>http://snxt.online:80/series/fabricio2021/fabricio2021/252174.mkv$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white] Episodio - 08[/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LjPjtfaxEn2W61ORPeytr5Qq7j.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/1xtiO5zGOERwIXcEXAy3YILwHMX.jpg</fanart>			
-<info>Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.</info>			
-<genre>CRIME E DRAMA</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<link>http://b5.vc:80/series/ed2021/2021ed/26406.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white] Episodio - 01 	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26407.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white] Episodio - 02	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26408.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white] Episodio - 03	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26409.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white] Episodio - 04	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26410.mp4$$lsname=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white] Episodio - 05	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26411.mp4$$lsname=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white] Episodio - 06	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26412.mp4$$lsname=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white] Episodio - 07	GAT[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed2021/2021ed/26413.mp4$$lsname=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white] Episodio - 08	GAT[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LjPjtfaxEn2W61ORPeytr5Qq7j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1xtiO5zGOERwIXcEXAy3YILwHMX.jpg</fanart>
+<info>Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+		
 
 <item>
 <title>[COLOR white][B]Caçadores de Trolls - 2016[/B][/COLOR]</title>
