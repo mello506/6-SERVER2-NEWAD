@@ -1,140 +1,259 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Jonny Quest - 1964[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=TDSa0gR5u9E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jonny Quest [/B][/COLOR]</link>
-
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] 26 Episodios - DUB[/B][/COLOR]</link>
-
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528108.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Misterio dos Homens-Lagartos [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528109.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Foguete Desaparecido [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528110.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Maldisao de Anubis [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528111.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Ao Soar dos Tambores [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528112.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Enigma [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528113.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Tesouro do Templo [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528114.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Aventura em Calcuta [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528115.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Robo Espiao [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528116.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Tesouro do Templo [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528117.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Sombra do Condor [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528118.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Tesouro [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528119.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Magia Negra [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528120.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Os Pigmeus [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528121.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Os Dragoes de Ashida [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528122.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Turu, o Terrivel [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528123.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]O Vulcao do Dr. Zin [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528124.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Lobisomem [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528125.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Piratas Submarinos [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528126.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Rapto [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528127.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Monstro Invisivel [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528128.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Africa Misteriosa [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528129.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]A Lagoa Envenenada [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528130.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]A Casa dos Sete Gargulas [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528131.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]A Ilha do Terror [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528132.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Abominavel Homem das Neves [/B][/COLOR]</link>
-<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528133.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]O Monstro do Mar de Java [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8S6Vc7jp4IuqInhogxfbUCAxujN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/elBiMvhZ190d7yAHvH5t1VlcUoE.jpg</fanart>
-<info>As aventuras de um garoto, de 10 anos, que junto com o seu pai cientista e um grupo de amigos, viajam em missões secretas à serviço do governo americano, resolvendo diversos mistérios.</info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-item>
-<title>[COLOR white][B]Manda Chuva - 1961[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=kW0U2z2zfG0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-
-<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] 30 Episodios - DUB[/B][/COLOR]</link>
-
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58813.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58814.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58815.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58816.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58817.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58818.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58819.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58820.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58821.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58822.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58823.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58824.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58825.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58826.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58827.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58828.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58829.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58830.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58831.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58832.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58833.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58834.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58835.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58836.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58837.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58838.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58839.mp4$nome=[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58840.mp4$nome=[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58841.mp4$nome=[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58842.mp4$nome=[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bccVkejZxfi0AIhswyo4010iMxM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rLi9jo0FFLkm0nvM6q8IygT8DfD.jpg</fanart>
-<info>A turma de malandros mais amada dos becos e seu carismático líder ,em incríveis armações.</info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Andy Panda - 1939[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=QqW2MLLIk3M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Andy Panda[/B][/COLOR]</link>
-
-<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
-
-<link>http://b5.vc:80/series/gislene/102030/100294.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Entra em Uma Fria [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100295.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Vai a Pesca [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100296.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]100 Pigmeus e Andy Panda [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100297.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Casa Maluca [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100298.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Pica-Pau Ataca Novamente [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100299.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]As Ratoeiras [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100300.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Gato Escaldado [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100301.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Andy Panda Pop [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100302.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Aprendiz de Ferreiro [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100303.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Adeus Senhor Trasa [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100304.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Cabana Encrencada [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100305.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Horta do Andy [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100306.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cercando Frangos [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100307.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Peixe Frito [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100308.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Pintor e Maluco [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100309.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]A Volta do Ratinho [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100310.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]A Masa do Evil [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100311.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white] Praga de Praga [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100312.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Em O Maestro [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100313.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Mamae Pelicano [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100314.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Presente de Aniversario [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100315.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Poeta e o Campones [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100316.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Imposto Pra Cachorro [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100317.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Corvo Maluco [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100318.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Andy Panda [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/gislene/102030/100319.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Andy Panda [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xuvXmTXqev4D2ZU83LwLmS0n2d7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lBAbR9LeHQ2JwMGuIZ3kQO3aiBp.jpg</fanart>
-<info>Em seus primeiros desenhos, Andy Panda aparece como um filhote, cujo pai, o Sr. Panda, está sempre tentando se mostrar como um bom exemplo para seu filho, porém tudo sempre acaba dando errado. Ao longo dos anos, Andy Panda passou a estrelar seus desenhos animados sozinho e também sofreu mudanças no seu visual.</info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>		
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR white][B]Os 3 Lá Embaixo: Contos da Arcadia - 2018[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=cpJbzauqcLA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os 3 LA Embaixo: Contos da Arcadia [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link>http://b5.vc:80/series/gislene/102030/27941.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Terra Desconhecida (Parte 1) [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27942.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Terra Desconhecida (Parte 2) [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27943.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Como Pensam Os Humanos [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27944.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Infestasao Alienigena [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27945.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Vai Dar Ruim [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27946.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Preso No Tempo [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27947.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Alunos Ilegais [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27948.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Estraga-prazeres [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27949.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Irmandade Perigosa [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27950.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Espionagem [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27951.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Segredo Revelado [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27952.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Ultima Noite Na Terra [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27953.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Fim Da Linha [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link>http://b5.vc:80/series/gislene/102030/27954.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Dia De Mudanza [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27955.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]No Mundo Da Lua [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27956.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Um Dia De Cao Nas Ferias [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27957.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Dia Das Maes [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27958.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Ganhos Ilicitos [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27959.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Quem Vai Ficar Com Gwen (De Gorbon)? [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27960.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]A Furia Do Asteroide [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27961.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Luug Vai Passear [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27962.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]A Queda Da Casa Tarron [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27963.mp4$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]O Grande Sono [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27964.mp4$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Rumo Ao Mercado Troll [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27965.mp4$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Um Final Glorioso (Parte 1) [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/gislene/102030/27966.mp4$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Um Final Glorioso (Parte 1) [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6odQsKnU8d0TQfYxhLlpqRP6xyt.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/xt657VxFpym2wfKHJ8z9fIOsGkA.jpg</fanart>		
+<info>Ao chegarem à Terra, dois jovens alienígenas em fuga tentam se infiltrar entre humanos e escapar de caçadores de recompensa intergaláticos.</info>		
+<genre>ANIMAÇÃO</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR white][B]Caçadores de Trolls - 2016[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=QWABAs-Qahs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78558.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78553.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78557.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78552.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78567.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78568.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78560.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78545.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78563.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78547.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78569.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78565.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78546.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78561.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78559.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78550.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78564.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78548.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78551.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78549.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78562.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78556.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78555.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78566.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78554.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
+		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78574.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78573.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78572.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78578.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78582.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78571.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78577.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78570.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78580.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78575.mp4$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78579.mp4$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78576.mp4$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78581.mp4$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78590.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78591.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78594.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78583.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78588.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78593.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78592.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78584.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78587.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78589.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78585.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78586.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+<link>http://chronostv.com:80/series/luisclaudionascimento92/9kmhkq/78595.mp4$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Cazadores de Trolls [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg</fanart>		
+<info>Jim é um garoto de 15 anos que é transformado em um caçador de trolls e defensor dos Trolls do bem, depois de encontrar sem querer um amuleto mágico. Enquanto luta ao lado do seu melhor amigo, Toby, e do Troll sabichão Blinky, ele precisa ao mesmo tempo conciliar os ensaios e deveres de casa da escola.</info>		
+<genre>ANIMAÇÃO</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR white][B]Jonny Quest - 1964[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=TDSa0gR5u9E$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jonny Quest [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] 26 Episodios - DUB[/B][/COLOR]</link>		
+		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528108.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Misterio dos Homens-Lagartos [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528109.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Foguete Desaparecido [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528110.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Maldisao de Anubis [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528111.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Ao Soar dos Tambores [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528112.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Enigma [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528113.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Tesouro do Templo [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528114.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Aventura em Calcuta [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528115.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Robo Espiao [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528116.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Tesouro do Templo [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528117.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Sombra do Condor [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528118.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Tesouro [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528119.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Magia Negra [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528120.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Os Pigmeus [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528121.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Os Dragoes de Ashida [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528122.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Turu, o Terrivel [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528123.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]O Vulcao do Dr. Zin [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528124.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]O Lobisomem [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528125.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Piratas Submarinos [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528126.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Rapto [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528127.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Monstro Invisivel [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528128.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Africa Misteriosa [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528129.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]A Lagoa Envenenada [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528130.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]A Casa dos Sete Gargulas [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528131.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]A Ilha do Terror [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528132.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Abominavel Homem das Neves [/B][/COLOR]</link>		
+<link>http://tvdns.tech:80/series/tadeu123/tadeu123/528133.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]O Monstro do Mar de Java [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8S6Vc7jp4IuqInhogxfbUCAxujN.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/elBiMvhZ190d7yAHvH5t1VlcUoE.jpg</fanart>		
+<info>As aventuras de um garoto, de 10 anos, que junto com o seu pai cientista e um grupo de amigos, viajam em missões secretas à serviço do governo americano, resolvendo diversos mistérios.</info>		
+<genre>DESENHOS</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+		
+item>		
+<title>[COLOR white][B]Manda Chuva - 1961[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=kW0U2z2zfG0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] 30 Episodios - DUB[/B][/COLOR]</link>		
+		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58813.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58814.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58815.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58816.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58817.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58818.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58819.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58820.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58821.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58822.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58823.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58824.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58825.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58826.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58827.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58828.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58829.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58830.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58831.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58832.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58833.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58834.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58835.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58836.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58837.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58838.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58839.mp4$nome=[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58840.mp4$nome=[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58841.mp4$nome=[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+<link>http://tv.minhalista.me/series/agenor1telecom/fp37ik75hsv/58842.mp4$nome=[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Manda Chuva [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bccVkejZxfi0AIhswyo4010iMxM.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/rLi9jo0FFLkm0nvM6q8IygT8DfD.jpg</fanart>		
+<info>A turma de malandros mais amada dos becos e seu carismático líder ,em incríveis armações.</info>		
+<genre>DESENHOS</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR white][B]Andy Panda - 1939[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=QqW2MLLIk3M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Andy Panda[/B][/COLOR]</link>		
+		
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+		
+<link>http://b5.vc:80/series/ed2021/2021ed/100294.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Entra em Uma Fria [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100295.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Vai a Pesca [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100296.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]100 Pigmeus e Andy Panda [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100297.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Casa Maluca [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100298.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Pica-Pau Ataca Novamente [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100299.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]As Ratoeiras [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100300.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Gato Escaldado [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100301.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Andy Panda Pop [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100302.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Aprendiz de Ferreiro [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100303.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Adeus Senhor Trasa [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100304.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Cabana Encrencada [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100305.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]A Horta do Andy [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100306.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cercando Frangos [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100307.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Peixe Frito [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100308.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Pintor e Maluco [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100309.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]A Volta do Ratinho [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100310.mp4$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]A Masa do Evil [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100311.mp4$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white] Praga de Praga [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100312.mp4$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Em O Maestro [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100313.mp4$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Mamae Pelicano [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100314.mp4$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Presente de Aniversario [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100315.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Poeta e o Campones [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100316.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Imposto Pra Cachorro [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100317.mp4$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Corvo Maluco [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100318.mp4$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Andy Panda [/B][/COLOR]</link>		
+<link>http://b5.vc:80/series/ed2021/2021ed/100319.mp4$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Andy Panda [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xuvXmTXqev4D2ZU83LwLmS0n2d7.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/lBAbR9LeHQ2JwMGuIZ3kQO3aiBp.jpg</fanart>		
+<info>Em seus primeiros desenhos, Andy Panda aparece como um filhote, cujo pai, o Sr. Panda, está sempre tentando se mostrar como um bom exemplo para seu filho, porém tudo sempre acaba dando errado. Ao longo dos anos, Andy Panda passou a estrelar seus desenhos animados sozinho e também sofreu mudanças no seu visual.</info>		
+<genre>DESENHOS</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
