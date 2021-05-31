@@ -534,7 +534,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]The Good Doctor - O Bom Doutor [/B][/COLOR]</link>
 
-<link>NOLINK$nome=[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
 
 <link>http://b5.vc:80/series/ed/102030/5136.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Comida Queimada [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ed/102030/5137.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Monte Rushmore [/B][/COLOR]</link>
@@ -555,7 +555,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ed/102030/5152.mp4$$lsname=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Sorria [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ed/102030/5153.mp4$$lsname=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Mais [/B][/COLOR]</link>
 
-<link>NOLINK$nome=[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
 		
 <link>http://b5.vc:80/series/ed/102030/29493.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Oi  [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ed/102030/29494.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Meio-termo [/B][/COLOR]</link>
@@ -576,7 +576,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://b5.vc:80/series/ed/102030/29509.mp4$$lsname=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Colapso [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ed/102030/29510.mp4$$lsname=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Trampolim [/B][/COLOR]</link>
 
-<link>NOLINK$nome=[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>
 		
 <link>http://b5.vc:80/series/ed/102030/32999.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Desastre [/B][/COLOR]</link>
 <link>http://b5.vc:80/series/ed/102030/33000.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Dividas [/B][/COLOR]</link>
