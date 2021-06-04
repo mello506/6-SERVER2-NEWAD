@@ -32,50 +32,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DRAMA</genre>  						
 </item>						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
-
-<item>
-<title>[COLOR white][B]Power Book II Ghost - 2020[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=XkTP1QTRWDA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Power Book II Ghost[/B][/COLOR]</link>
-
-<link>NOLINK$nome=[COLOR orange][B]SERVIDOR[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
-
-<link>http://b5.vc:80/series/vanusa/102030/87606.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Estranho [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/87611.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Excedendo As Expectativas [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/87616.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Jogue O Jogo [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/87621.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Principe [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/87626.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Dom De Maji  [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/90903.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Bom Vs Mal [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/90904.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Sex Week [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/90905.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Primeiro A Familia [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/90906.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Monstro [/B][/COLOR]</link>
-<link>http://b5.vc:80/series/vanusa/102030/91634.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Corasao De Escuridao [/B][/COLOR]</link>
-		
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nDPvBl6dJ5nWi4COMcMNUshpQzf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iaO7lfcly2NkOXoNm4nYqN5yXhJ.jpg</fanart>
-<info>"Ghost" segue a vida de Tariq tentando balancear sua operação de tráfico, notas, vida amorosa e família. Para evitar ter o mesmo destino que seu pai, a solução é ser uma versão melhor dele.</info>
-<genre>CRIME E DRAMA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>						
-<title>[COLOR white][B]A Vida e a Historia de Madam C.J. Walker - 2020[/B][/COLOR]</title>						
-						
-<link>plugin://plugin.video.youtube/play/?video_id=yYDJvnDfB2w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
-						
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>						
-						
-<link>http://b5.vc:80/series/ed/102030/41865.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
-<link>http://b5.vc:80/series/ed/102030/41866.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
-<link>http://b5.vc:80/series/ed/102030/41867.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
-<link>http://b5.vc:80/series/ed/102030/41868.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
-						
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TMkFGAbsTfN3DHJu5AemEpdcEE.jpg</thumbnail>						
-<fanart>https://www.themoviedb.org/t/p/original/8Wm4H0SmCSa0EEohkoIslDz9Uw9.jpg</fanart>						
-<info>Uma afro-americana que venceu a pobreza, construiu um império de produtos de beleza e se tornou a primeira milionária pelo próprio esforço. Baseado em uma história real.</info>						
-<genre>DRAMA</genre>  						
-</item>						
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
 						
 <item>						
 <title>[COLOR white][B]O Reino Perdido dos Piratas - 2021[/B][/COLOR]</title>						
@@ -237,7 +193,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX						
+
+<item>
+<title>[COLOR white][B]Power Book II Ghost - 2020[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=XkTP1QTRWDA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Power Book II Ghost[/B][/COLOR]</link>
+
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed/102030/87606.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Estranho [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/87611.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Excedendo As Expectativas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/87616.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Jogue O Jogo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/87621.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Principe [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/87626.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Dom De Maji  [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/90903.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Bom Vs Mal [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/90904.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Sex Week [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/90905.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Primeiro A Familia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/90906.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Monstro [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/91634.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Corasao De Escuridao [/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nDPvBl6dJ5nWi4COMcMNUshpQzf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iaO7lfcly2NkOXoNm4nYqN5yXhJ.jpg</fanart>
+<info>"Ghost" segue a vida de Tariq tentando balancear sua operação de tráfico, notas, vida amorosa e família. Para evitar ter o mesmo destino que seu pai, a solução é ser uma versão melhor dele.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>						
+<title>[COLOR white][B]A Vida e a Historia de Madam C.J. Walker - 2020[/B][/COLOR]</title>						
 						
+<link>plugin://plugin.video.youtube/play/?video_id=yYDJvnDfB2w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
+						
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>						
+						
+<link>http://b5.vc:80/series/ed/102030/41865.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
+<link>http://b5.vc:80/series/ed/102030/41866.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
+<link>http://b5.vc:80/series/ed/102030/41867.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
+<link>http://b5.vc:80/series/ed/102030/41868.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Vida e a Historia de Madam C.J. Walker [/B][/COLOR]</link>						
+						
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TMkFGAbsTfN3DHJu5AemEpdcEE.jpg</thumbnail>						
+<fanart>https://www.themoviedb.org/t/p/original/8Wm4H0SmCSa0EEohkoIslDz9Uw9.jpg</fanart>						
+<info>Uma afro-americana que venceu a pobreza, construiu um império de produtos de beleza e se tornou a primeira milionária pelo próprio esforço. Baseado em uma história real.</info>						
+<genre>DRAMA</genre>  						
+</item>						
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>						
 <title>[COLOR white][B]Transplant: Uma Nova Vida  - 2020 [/B][/COLOR]</title>						
 						
