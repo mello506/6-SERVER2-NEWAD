@@ -30,18 +30,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
 <title>[COLOR white][B]Sweet Tooth - 2021 [/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=0mz_ImwSOpM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sweet Tooth[/B][/COLOR]</link>		
+<link>plugin://plugin.video.youtube/play/?video_id=0mz_ImwSOpM$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sweet Tooth[/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
-<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80815.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109196.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109197.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109198.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109199.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109200.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109201.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>		
-<link>http://b5.vc:80/series/cleilton/102030/109202.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80815.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80816.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80817.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80818.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80819.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80820.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80821.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>		
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80822.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>		
 		
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>		
@@ -49,6 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>  		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+	
 
 <item>
 <title>[COLOR white][B]Lupin - 2021 [/B][/COLOR]</title>
