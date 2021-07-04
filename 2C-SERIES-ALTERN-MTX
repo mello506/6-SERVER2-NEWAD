@@ -7,27 +7,78 @@
 </item>											
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
-
-<item>	
-<title>[COLOR white][B]Loki - 2021 [/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=Q_zkE7gzBN4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Loki[/B][/COLOR]</link>	
-	
-<link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
-	
-<link>http://vdk10.life:8080/series/alessandro12/12alessandro/103050.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proposito Glorioso [/B][/COLOR]</link>	
-<link>http://vdk10.life:8080/series/alessandro12/12alessandro/105552.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Variante [/B][/COLOR]</link>	
-<link>http://vdk10.life:8080/series/alessandro12/12alessandro/106834.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Lamentis [/B][/COLOR]</link>	
-<link>http://vdk10.life:8080/series/alessandro12/12alessandro/109284.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Evento Nexus [/B][/COLOR]</link>	
-	
-link><LINKUNIVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>	
-	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>	
-<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>	
-<genre>FICÇÃO E FANTASIA</genre>  	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+											
+<item>											
+<title>[COLOR white][B]Loki - 2021 [/B][/COLOR]</title>											
+<link>plugin://plugin.video.youtube/play/?video_id=Q_zkE7gzBN4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Loki[/B][/COLOR]</link>											
+											
+<link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
+											
+<link>http://vdk10.life:8080/series/alessandro12/12alessandro/103050.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proposito Glorioso [/B][/COLOR]</link>											
+<link>http://vdk10.life:8080/series/alessandro12/12alessandro/105552.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Variante [/B][/COLOR]</link>											
+<link>http://vdk10.life:8080/series/alessandro12/12alessandro/106834.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Lamentis [/B][/COLOR]</link>											
+<link>http://vdk10.life:8080/series/alessandro12/12alessandro/109284.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Evento Nexus [/B][/COLOR]</link>											
+											
+link><LINKUNIVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>											
+											
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>											
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>											
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>											
+<genre>FICÇÃO E FANTASIA</genre>  											
+</item>											
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
+											
+<item>											
+<title>[COLOR white][B]Sweet Tooth - 2021 [/B][/COLOR]</title>											
+<link>plugin://plugin.video.youtube/play/?video_id=0mz_ImwSOpM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sweet Tooth[/B][/COLOR]</link>											
+											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
+											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80815.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80816.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80817.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80818.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80819.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80820.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80821.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80822.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>											
+											
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>											
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>											
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>											
+<genre>AVENTURA</genre>  											
+</item>											
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
+											
+											
+<item>											
+<title>[COLOR white][B]Lupin - 2021 [/B][/COLOR]</title>											
+											
+<link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Lupin [/B][/COLOR]</link>											
+											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
+											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80859.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80860.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80861.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80862.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80863.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05 [/B][/COLOR]</link>											
+											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>											
+											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80864.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Episodio 06 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80865.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Episodio 07 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80866.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Episodio 08 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80867.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Episodio 09 [/B][/COLOR]</link>											
+<link>http://propdsrv.com:80/series/altamiro1/7584017gh/80868.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Episodio 10 [/B][/COLOR]</link>											
+											
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>											
+<fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>											
+<info>Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.</info>											
+<genre>CRIME E DRAMA</genre>  											
+</item>											
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
 <item>											
 <title>[COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>											
 											
@@ -120,45 +171,46 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>											
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
 											
-item>											
+<item>											
 <title>[COLOR white][B]Frontier - 2016[/B][/COLOR]</title>											
 											
 <link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Frontier[/B][/COLOR]</link>											
 											
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
 											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25801.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reino De Pele E Sangue [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25800.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Guerra Entre Iguais [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25799.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Inimigo Em Comum [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25798.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Comando Sem Lei [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25797.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25796.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obsessao [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46861.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reino De Pele E Sangue [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46862.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Guerra Entre Iguais [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46863.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Inimigo Em Comum [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46864.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Comando Sem Lei [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46865.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46866.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obsessao [/B][/COLOR]</link>											
 											
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>											
 											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25795.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabeza A Premio [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25794.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Procurado [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25793.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Lobo E O Urso [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25792.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Motim [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25791.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Disparo De Canhao [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/25890.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Retorno Do Lobo [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46867.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabeza A Premio [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46868.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Procurado [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46869.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Lobo E O Urso [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46870.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Motim [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46871.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Disparo De Canhao [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46872.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Retorno Do Lobo [/B][/COLOR]</link>											
 											
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>											
+<link>NOLINK$nome=[COLOR orange][B]SERVER 3[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>											
 											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50692.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Caminho Obscuro [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50693.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Fim Do Mundo [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50694.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Satanazas [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50695.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Todos Por Todos E Nenhum Por Um [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50696.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Casa Do Senhor [/B][/COLOR]</link>											
-<link>http://main.chopp.me:80/series/Cirino123/Cirino321/50697.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Os Pecados Do Pai [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46873.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Caminho Obscuro [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46874.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Fim Do Mundo [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46875.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Satanazas [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46876.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Todos Por Todos E Nenhum Por Um [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46877.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Casa Do Senhor [/B][/COLOR]</link>											
+<link>http://xsrv.me:8080/series/Bruno2021/2021Bruno/46878.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Os Pecados Do Pai [/B][/COLOR]</link>											
 											
-<thumbnail>https://www.themovivanusab.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>											
-<fanart>https://www.themovivanusab.org/t/p/original/4MQfQhtqz07xWyD6uj9wJj2LjTM.jpg</fanart>											
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>											
+<fanart>https://www.themoviedb.org/t/p/original/4MQfQhtqz07xWyD6uj9wJj2LjTM.jpg</fanart>											
 <info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>											
 <genre>ÉPICOS</genre>  											
 </item>											
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX											
+											
 											
 <item>											
 <title>[COLOR white][B]Largados e Pelados A Tribo - 2015[/B][/COLOR]</title>											
@@ -167,70 +219,71 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 											
 <link>NOLINK$nome=[COLOR orange][B]SERVER ALTCOLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>											
 											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191500.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191501.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191502.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191503.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191504.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191505.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191506.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191507.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191508.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19658FAT.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19659FAT.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19660FAT.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19661FAT.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19662FAT.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19663FAT.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19664FAT.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19665FAT.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/19666FAT.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
 											
 <link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>											
 											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191509.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191510.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191511.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191512.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191513.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191514.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191515.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191516.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191517.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32012FAT.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32013FAT.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32014FAT.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32015FAT.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32016FAT.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32017FAT.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32018FAT.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32019FAT.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32020FAT.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32021FAT.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32022FAT.mkv$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
 											
 <link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>											
 											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191518.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191519.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191520.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191521.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191522.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191523.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191524.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191525.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191526.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191527.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191528.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191529.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32023FAT.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32024FAT.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32025FAT.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32026FAT.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32027FAT.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32028FAT.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32029FAT.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32030FAT.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32031FAT.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32032FAT.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32033FAT.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
 											
 <link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>											
 											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191530.mp4$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191531.mp4$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191532.mp4$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191533.mp4$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191534.mp4$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191535.mp4$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191536.mp4$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191537.mp4$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191538.mp4$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191539.mp4$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191540.mp4$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32034FAT.mkv$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32035FAT.mkv$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32036FAT.mkv$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32037FAT.mkv$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32038FAT.mkv$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32039FAT.mkv$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32040FAT.mkv$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32041FAT.mkv$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32042FAT.mkv$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32043FAT.mkv$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32044FAT.mkv$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
 											
 <link>NOLINK$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR orange] Temporada 05 - DUB[/B][/COLOR]</link>											
 											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191541.mp4$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191542.mp4$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191543.mp4$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191544.mp4$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191545.mp4$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191546.mp4$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191547.mp4$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191548.mp4$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191549.mp4$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191550.mp4$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
-<link>http://b2p.li:80/series/elisabete01/elisabete/191551.mp4$nome=[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32045FAT.mkv$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32046FAT.mkv$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32047FAT.mkv$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32048FAT.mkv$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32049FAT.mkv$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32050FAT.mkv$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32051FAT.mkv$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32052FAT.mkv$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32053FAT.mkv$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32054FAT.mkv$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
+<link>http://xcui.vitvabc.xyz:8880/series/287994003640/287994003640/32055FAT.mkv$nome=[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]Largados e Pelados - A Tribo [/B][/COLOR]</link>											
 											
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg</thumbnail>											
 <fanart>https://www.themoviedb.org/t/p/original/qkfC7uVEQ5RiPsGmNhFQ0uO1LK1.jpg</fanart>											
