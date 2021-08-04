@@ -477,53 +477,70 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 																																	
-<item>																																	
-<title>[COLOR white][B]Manifest: O Mistério do Voo 828  - 2018[/B][/COLOR]</title>																																	
+<item>
+<title>[COLOR white][B]Manifest: O Mistério do Voo 828  - 2018[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=kJVhS7Doj1U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manifest: O Misterio do Voo 828  [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/antoni/102030/116379.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116380.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Reintegrasao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116381.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Turbulencia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116382.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Bagagem Nao Reclamada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116383.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Voo de Conexao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116384.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Fora do Radar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116385.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] S.N.A.F.U. [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116386.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Beco Sem Saida [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116387.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Calculo Morto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116388.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Vento Cruzado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116389.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Rastros [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116390.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Ponto de Fuga [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116391.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Liberado para Abordagem [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116392.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Atualizar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116393.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Aterrissagem Forzada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116394.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Hora Prevista de Partida [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+		
+<link>http://b5.vc:80/series/antoni/102030/116395.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Apertem Os Cintos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116396.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Na Pista [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116397.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Falso Horizonte [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116398.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Caixa-Preta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116399.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Voo Coordenado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116400.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Viagem de Volta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116401.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Saida de Emergencia [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116402.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Siga em Frente [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116403.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Garrafas De Aviao [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116404.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Desvio Do Curso [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116405.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Menores Desacompanhados [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116406.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Indicativo de Chamada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116407.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Condisoes de Formasao de Gelo [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/antoni/102030/116408.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Barbatana [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116409.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] Cabesa Morta [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116410.mp4$$lsname=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white] Parceiro [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116411.mp4$$lsname=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white] Tailspin [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116412.mp4$$lsname=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white] Aterragem na Agua [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116413.mp4$$lsname=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white] Espiral do Cemiterio [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116414.mp4$$lsname=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white] Carga Preciosa [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116415.mp4$$lsname=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white] Destino Desconhecido [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116416.mp4$$lsname=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white] Bogey [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116417.mp4$$lsname=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white] Calibrasao da Bussola [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116418.mp4$$lsname=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white] Sem Taxas [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116419.mp4$$lsname=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white] Socorro (Parte 1) [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/antoni/102030/116420.mp4$$lsname=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white] Socorro (Parte 2) [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>
+<info>Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 																																	
-<link>plugin://plugin.video.youtube/play/?video_id=kJVhS7Doj1U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Manifest: O Misterio do Voo 828  [/B][/COLOR]</link>																																	
-																																	
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>																																	
-																																	
-<link>http://b5.vc:80/series/antoni/102030/30690.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30691.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Reintegrasao [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30692.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] Turbulencia [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30693.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] Bagagem Nao Reclamada [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30694.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Voo de Conexao [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30695.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Fora do Radar [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30696.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] S.N.A.F.U. [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30697.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Beco Sem Saida [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30698.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] Calculo Morto [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30699.mp4$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] Vento Cruzado [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30700.mp4$$lsname=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Rastros [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30701.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Ponto de Fuga [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30702.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Liberado para Abordagem [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30703.mp4$$lsname=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Atualizar [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30704.mp4$$lsname=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Aterrissagem Forzada [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/30705.mp4$$lsname=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Hora Prevista de Partida [/B][/COLOR]</link>																																	
-																																	
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>																																	
-																																	
-<link>http://b5.vc:80/series/antoni/102030/62484.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Apertem Os Cintos [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62485.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Na Pista [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62486.mp4$$lsname=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white] Falso Horizonte [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62487.mp4$$lsname=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white] Caixa-Preta [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62488.mp4$$lsname=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white] Voo Coordenado [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62489.mp4$$lsname=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white] Viagem de Volta [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62490.mp4$$lsname=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white] Saida de Emergencia [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62491.mp4$$lsname=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white] Siga em Frente [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62492.mp4$$lsname=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white] Garrafas De Aviao [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62493.mp4$$lsname=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Desvio Do Curso [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62494.mp4$$lsname=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white] Menores Desacompanhados [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62495.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white] Indicativo de Chamada [/B][/COLOR]</link>																																	
-<link>http://b5.vc:80/series/antoni/102030/62496.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white] Condisoes de Formasao de Gelo [/B][/COLOR]</link>																																	
-																																	
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAantoniYwKpF1iW83qKXtPoX9B.jpg</thumbnail>																																	
-<fanart>https://www.themoviedb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>																																	
-<info>Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info>																																	
-<genre>DRAMA</genre>  																																	
-</item>																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 																																	
 <item>																																	
 <title>[COLOR white][B]Troia - A Conquista de Uma Cidade - 2018[/B][/COLOR]</title>																																	
