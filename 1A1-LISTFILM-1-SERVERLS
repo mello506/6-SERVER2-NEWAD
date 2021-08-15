@@ -2847,11 +2847,11 @@ http://b5.vc:80/movie/antoni/102030/22541.mp4
 http://b5.vc:80/movie/antoni/102030/91453.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/e98dJUitAoKLwmzjQ0Yxp1VQrnU_big.jpg" ,[COLOR orange][B]LEGENDADOS[COLOR yellow] -> [COLOR white]Come Play [L][/B][/COLOR]
 http://b5.vc:80/movie/antoni/102030/88679.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" group-title="Stand Up Comedy",Comedians Of The World - Afonso Padilha[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" [COLOR orange][B]STAND UP[COLOR yellow] -> [COLOR white]Comedians Of The World - Afonso Padilha[/B][/COLOR]
 http://b5.vc:80/movie/antoni/102030/33878.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" group-title="Stand Up Comedy",Comedians Of The World - Mhel Marrer[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" [COLOR orange][B]STAND UP[COLOR yellow] -> [COLOR white]Comedians Of The World - Mhel Marrer[/B][/COLOR]
 http://b5.vc:80/movie/antoni/102030/33879.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" group-title="Stand Up Comedy",Comedians Of The World - Thiago Ventura[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UBKbeu.jpg" [COLOR orange][B]STAND UP[COLOR yellow] -> [COLOR white]Comedians Of The World - Thiago Ventura[/B][/COLOR]
 http://b5.vc:80/movie/antoni/102030/33880.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/5CMhiQnnLsKx5bgtndz6C5vhgRr_big.jpg" ,[COLOR orange][B]DRAMA[COLOR yellow] -> [COLOR white]Comer Rezar Amar[/B][/COLOR]
 http://b5.vc:80/movie/antoni/102030/20961.mp4
