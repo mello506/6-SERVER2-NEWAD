@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name=" A Espada Era a Lei (1963) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg" ,[COLOR orange][B] INFANTIL [COLOR yellow] -> [COLOR white] A Espada Era a Lei (1963) [/B][/COLOR]
 http://vdk10.life:8080/movie/genesio10/10genesio/43037.mp4
