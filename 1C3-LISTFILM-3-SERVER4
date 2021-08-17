@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas" tvg-logo="http://b5.vc:80/images/rVcigGnXNtYQoBAhTWGAS9o03jc_big.jpg" ,[COLOR orange][B] TERROR [COLOR yellow]-> [COLOR white]13 Fantasmas[/B][/COLOR]
 http://tvdns.tech:80/movie/renato02/renato02/759174.mp4
