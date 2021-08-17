@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou" tvg-logo="http://b5.vc:80/images/zH8xv4ooT84btWerL1A06jZNOEN_big.jpg" ,[COLOR orange][B] DRAMA [COLOR yellow]-> [COLOR white]...E o Vento Levou[/B][/COLOR]
 http://tvdns.tech:80/movie/renato02/renato02/761278.mp4
